@@ -1,0 +1,10 @@
+site_name: ExpanseMC
+theme:
+  name: 'rtd-dropdown'
+nav:
+  - Home: 'index.md'
+  - Players:
+    - Magic: 'players/magic.md'
+    - Towny: 'players/towny.md'
+  - About:
+    - Staff: 'about/staff.md'
