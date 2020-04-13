@@ -1,6 +1,6 @@
 site_name: ExpanseMC
 theme:
-  name: 'rtd-dropdown'
+  name: 'readthedocs'
 nav:
   - Home: 'index.md'
   - Players:
