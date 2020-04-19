@@ -12,4 +12,5 @@ nav:
       - Play Time: 'players/ranks/playtime.md'
     - Towny: 'players/towny.md'
   - About:
+    - 'Rules and Regulations': 'about/rules.md'
     - Staff: 'about/staff.md'
