@@ -5,6 +5,11 @@ nav:
   - Home: 'index.md'
   - Players:
     - Magic: 'players/magic.md'
+    - Ranks:
+      - Donation: 'players/ranks/donation.md'
+      - Money: 'players/ranks/money.md'
+      - Player Kills: 'players/ranks/playerkills.md'
+      - Play Time: 'players/ranks/playtime.md'
     - Towny: 'players/towny.md'
   - About:
     - Staff: 'about/staff.md'

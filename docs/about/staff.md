@@ -9,18 +9,21 @@ The __Administration Team__ are the leadership of Expanse, creating new server f
 | Name            | Role                          |
 | --------------- | ----------------------------- |
 | doot            | Owner                         |
-| AJKinney        | Magic and NPCs Extraordinaire |
-| CreepersplaysMC | Systems and Discord Guy       |
+| AJKinney        | Administrator                 |
+| Axsasel         | Administrator                 |
+| CreepersplaysMC | Administrator                 |
 | Eggioo          | Architect Coordinator         |
-| NatePlays_      | MCM Stalker                   |
+| NatePlays_      | Administrator                 |
 
 ## Moderation Team
 
 The __Moderation Team__ are the backbone of Expanse, keeping the hackers out, and the chat clean.
 
-| Name  | Role      |
-| ----- | --------- |
-| lleen | Moderator |
+| Name           | Role      |
+| -------------- | --------- |
+| lleen          | Moderator |
+| Psuedoneurotic | Moderator |
+| rollswithlols  | Moderator |
 
 ## Architect Team
 
