@@ -22,7 +22,7 @@ These are the rules that apply to all of our platforms, including (but not limit
 - Optifine
 - Damage Indicators
 - 5zig
-- Minimap (no entities or armor)
+- Minimap (no entities or players)
 - ArmorStatusHUD and DirectionHUD
 - Schematica (no printer)
 - Labymod
