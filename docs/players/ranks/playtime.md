@@ -30,3 +30,9 @@ Perks:
 - `&8[&5Artisan&8]` Prefix
 - 6 Sethomes
 - More coming soon!
+
+Artisan Kit (Cooldown: `3 days`):
+
+- 1x [Artisan Pickaxe] - Diamond Pickaxe (Fortune 1, Efficiency 4, Unbreaking 3)
+- 32x Diamond
+- 32x Emerald

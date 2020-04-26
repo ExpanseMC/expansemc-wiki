@@ -25,3 +25,8 @@ Perks:
 - `&8[&5Gladiator&8]` Tag
 - Access to __/head__ (get the head of another player!)
 - More coming soon!
+
+Gladiator Kit (Cooldown: `3 days`):
+
+- 1x [Gladiator Sword] - Diamond Sword (Fire Aspect 1, Sharpness 4, Unbreaking 3)
+- 64x Experience Bottle

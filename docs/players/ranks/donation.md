@@ -18,11 +18,25 @@ Perks:
 - Access to __/tptoggle__ (prevent people from requesting teleports to you!)
 - Access to __/sit__ (sit anywhere in the world!)
 
+Hero Kit (Cooldown: `3 days`):
+
+- 1x [Hero Helmet] - Diamond Helmet (Unbreaking 2)
+- 1x [Hero Chestplate] - Diamond Chestplate (Unbreaking 2)
+- 1x [Hero Leggings] - Diamond Leggings (Unbreaking 2)
+- 1x [Hero Boots] - Diamond Boots (Unbreaking 2)
+- 1x [Hero Sword] - Diamond Sword (Unbreaking 2)
+- 1x [Hero Pickaxe] - Diamond Pickaxe (Unbreaking 2)
+- 1x [Hero Shovel] - Diamond Shovel (Unbreaking 2)
+- 1x [Hero Axe] - Diamond Axe (Unbreaking 2)
+- 1x [Hero Bow] - Bow (Unbreaking 2)
+- 32x Arrow
+- 16x Cooked Porkchop
+
 See more info at [our store](https://store.expansemc.com).
 
 ## Champion ($20)
 
-Grants:
+Perks:
 
 - All of __Hero__'s perks
 - `&8[&6&lChampion&8]` Prefix
@@ -36,5 +50,19 @@ Grants:
 - Access to __/craft__ (open a virtual crafting table!)
 - Access to __/enderchest__ (open your enderchest anywhere!)
 - Access to __/dye__ (easily dye your leather armor!)
+
+Champion Kit (Cooldown: `3 days`):
+
+- 1x [Champion Helmet] - Diamond Helmet (Protection 2, Unbreaking 2)
+- 1x [Champion Chestplate] - Diamond Chestplate (Protection 2, Unbreaking 2)
+- 1x [Champion Leggings] - Diamond Leggings (Protection 2, Unbreaking 2)
+- 1x [Champion Boots] - Diamond Boots (Protection 2, Unbreaking 2)
+- 1x [Champion Sword] - Diamond Sword (Protection 2, Unbreaking 2)
+- 1x [Champion Pickaxe] - Diamond Pickaxe (Protection 2, Unbreaking 2)
+- 1x [Champion Shovel] - Diamond Shovel (Protection 2, Unbreaking 2)
+- 1x [Champion Axe] - Diamond Axe (Protection 2, Unbreaking 2)
+- 1x [Champion Bow] - Bow (Protection 2, Unbreaking 2)
+- 64x Arrow
+- 32x Cooked Porkchop
 
 See more info at [our store](https://store.expansemc.com).

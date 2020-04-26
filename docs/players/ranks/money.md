@@ -31,3 +31,11 @@ Perks:
 - ~~3 Private Vaults~~ Coming soon!
 - ~~25 extra Auction House slots~~ Coming soon!
 - More coming soon!
+
+Magnate Kit (Cooldown: `3 days`):
+
+- 1x [Magnate Helmet] - Diamond Helmet (Thorns 1, Protection 3, Unbreaking 3)
+- 1x [Magnate Chestplate] - Diamond Chestplate (Thorns 1, Protection 3, Unbreaking 3)
+- 1x [Magnate Leggings] - Diamond Leggings (Thorns 1, Protection 3, Unbreaking 3)
+- 1x [Magnate Boots] - Diamond Boots (Thorns 1, Protection 3, Unbreaking 3)
+- 32x Enchanted Golden Apple
