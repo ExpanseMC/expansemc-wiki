@@ -57,11 +57,11 @@ Champion Kit (Cooldown: `3 days`):
 - 1x [Champion Chestplate] - Diamond Chestplate (Protection 2, Unbreaking 2)
 - 1x [Champion Leggings] - Diamond Leggings (Protection 2, Unbreaking 2)
 - 1x [Champion Boots] - Diamond Boots (Protection 2, Unbreaking 2)
-- 1x [Champion Sword] - Diamond Sword (Protection 2, Unbreaking 2)
-- 1x [Champion Pickaxe] - Diamond Pickaxe (Protection 2, Unbreaking 2)
-- 1x [Champion Shovel] - Diamond Shovel (Protection 2, Unbreaking 2)
-- 1x [Champion Axe] - Diamond Axe (Protection 2, Unbreaking 2)
-- 1x [Champion Bow] - Bow (Protection 2, Unbreaking 2)
+- 1x [Champion Sword] - Diamond Sword (Sharpness 2, Unbreaking 2)
+- 1x [Champion Pickaxe] - Diamond Pickaxe (Effiency 2, Unbreaking 2)
+- 1x [Champion Shovel] - Diamond Shovel (Efficency 2, Unbreaking 2)
+- 1x [Champion Axe] - Diamond Axe (Effiency 2, Unbreaking 2)
+- 1x [Champion Bow] - Bow (Power 2, Unbreaking 2)
 - 64x Arrow
 - 32x Cooked Porkchop
 
