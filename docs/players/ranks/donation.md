@@ -15,8 +15,8 @@ Perks:
 - Access to __/ptime__ (change your own ingame time!)
 - Access to __/me__ (do some emotes!)
 - Access to __/hat__ (put items and blocks on your head!)
-- Access to __/tptoggle__ (prevent people from requesting teleports to you!)
 - Access to __/sit__ (sit anywhere in the world!)
+- Access to __/dye__ (easily dye your leather armor!)
 
 Hero Kit (Cooldown: `3 days`):
 
@@ -49,7 +49,7 @@ Perks:
 - Access to __/pweather__ (change your own ingame weather!)
 - Access to __/craft__ (open a virtual crafting table!)
 - Access to __/enderchest__ (open your enderchest anywhere!)
-- Access to __/dye__ (easily dye your leather armor!)
+- Access to __/tptoggle__ (prevent people from requesting teleports to you!)
 
 Champion Kit (Cooldown: `3 days`):
 
