@@ -33,6 +33,5 @@ Perks:
 
 Artisan Kit (Cooldown: `3 days`):
 
-- 1x [Artisan Pickaxe] - Diamond Pickaxe (Fortune 1, Efficiency 4, Unbreaking 3)
-- 32x Diamond
-- 32x Emerald
+- 1x [Artisan Pickaxe] - Diamond Pickaxe (Mending 1, Efficiency 4, Unbreaking 3)
+- 1x Shulker Box

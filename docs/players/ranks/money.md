@@ -34,8 +34,8 @@ Perks:
 
 Magnate Kit (Cooldown: `3 days`):
 
-- 1x [Magnate Helmet] - Diamond Helmet (Thorns 1, Protection 3, Unbreaking 3)
-- 1x [Magnate Chestplate] - Diamond Chestplate (Thorns 1, Protection 3, Unbreaking 3)
-- 1x [Magnate Leggings] - Diamond Leggings (Thorns 1, Protection 3, Unbreaking 3)
-- 1x [Magnate Boots] - Diamond Boots (Thorns 1, Protection 3, Unbreaking 3)
-- 32x Enchanted Golden Apple
+- 1x [Magnate Helmet] - Diamond Helmet (Projectile Protection 1, Protection 3, Unbreaking 3)
+- 1x [Magnate Chestplate] - Diamond Chestplate (Blast Protection 1, Protection 3, Unbreaking 3)
+- 1x [Magnate Leggings] - Diamond Leggings (Fire Protection 1, Protection 3, Unbreaking 3)
+- 1x [Magnate Boots] - Diamond Boots (Feather Falling 1, Protection 3, Unbreaking 3)
+- 8x Enchanted Golden Apple
