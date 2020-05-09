@@ -4,6 +4,7 @@ theme:
 nav:
   - Home: 'index.md'
   - Players:
+    - Economy: 'players/economy.md'
     - Magic: 'players/magic.md'
     - Towny: 'players/towny.md'
     - Ranks:
