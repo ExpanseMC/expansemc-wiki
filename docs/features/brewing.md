@@ -33,10 +33,14 @@ You'll first need a barrel. There are two types of these, Small and Large.
 
 To build a small barrel, arrange 8 wooden stairs in the shape of a barrel. On the lower right side, place a sign and write "Barrel" without quotes on the first line.
 
+![Small Barrels](https://camo.githubusercontent.com/3af194fed063f23137cbb729986c6862e8831091/68747470733a2f2f696d6775722e636f6d2f426b4e736935342e706e67 "Small Barrels")
+
 To build a large barrel, use 5 fences, 16 wooden stairs, and 18 wood planks to build a barrel shape.
 Attach a spigot (fence), and again, add a sign with "Barrel" on its first line. (You can take the sign off for the Large Barrel).
 
-To open a barrel, click on the sign (for a small barrel), or anywhere (for a large barrel). 1 year for aging is equal to 20 real life minutes. NBte that the type of wood can matter per type of brew. Make sure not to destroy the barrel while aging!
+![Large Barrels](https://camo.githubusercontent.com/93016eb9a31ee78b44044009fb6723abca587179/68747470733a2f2f696d6775722e636f6d2f6b336834716a302e706e67 "Large Barrels")
+
+To open a barrel, click on the sign (for a small barrel), or anywhere (for a large barrel). 1 year for aging is equal to 20 real life minutes. Note that the type of wood can matter per type of brew. Make sure not to destroy the barrel while aging!
 
 ## Drinking
 

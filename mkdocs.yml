@@ -12,8 +12,8 @@ nav:
     - Towny: 'features/towny.md'
     - Marriage: 'features/marriage.md'
     - Brewing: 'features/brewing.md'
-    - McMMO:
-      - McMMO: 'features/mcmmo.md'
+    - McMMO: 'features/mcmmo.md'
+    - Skills:
       - Unarmed: 'features/mcmmo/unarmed.md'
       - Archery: 'features/mcmmo/archery.md'
       - Swords: 'features/mcmmo/swords.md'
@@ -30,7 +30,7 @@ nav:
       - Salvage: 'features/mcmmo/salvage.md'
       - Smelting: 'features/mcmmo/smelting.md'
     - Ranks:
-      - Donation: 'features/ranks/donation.md'
-      - Money: 'features/ranks/money.md'
-      - Player Kills: 'features/ranks/playerkills.md'
-      - Play Time: 'features/ranks/playtime.md'
+      - Donation: 'ranks/donation.md'
+      - Money: 'ranks/money.md'
+      - Player Kills: 'ranks/playerkills.md'
+      - Play Time: 'ranks/playtime.md'
