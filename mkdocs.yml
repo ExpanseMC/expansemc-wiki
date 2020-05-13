@@ -3,15 +3,34 @@ theme:
   name: 'readthedocs'
 nav:
   - Home: 'index.md'
-  - Players:
-    - Economy: 'players/economy.md'
-    - Magic: 'players/magic.md'
-    - Towny: 'players/towny.md'
-    - Ranks:
-      - Donation: 'players/ranks/donation.md'
-      - Money: 'players/ranks/money.md'
-      - Player Kills: 'players/ranks/playerkills.md'
-      - Play Time: 'players/ranks/playtime.md'
   - About:
     - 'Rules and Regulations': 'about/rules.md'
     - Staff: 'about/staff.md'
+  - Features:
+    - Economy: 'features/economy.md'
+    - Magic: 'features/magic.md'
+    - Towny: 'features/towny.md'
+    - Marriage: 'features/marriage.md'
+    - Brewing: 'features/brewing.md'
+    - McMMO:
+      - McMMO: 'features/mcmmo.md'
+      - Unarmed: 'features/mcmmo/unarmed.md'
+      - Archery: 'features/mcmmo/archery.md'
+      - Swords: 'features/mcmmo/swords.md'
+      - Axes: 'features/mcmmo/axes.md'
+      - Taming: 'features/mcmmo/taming.md'
+      - Mining: 'features/mcmmo/mining.md'
+      - Woodcutting: 'features/mcmmo/woodcutting.md'
+      - Herbalism: 'features/mcmmo/herbalism.md'
+      - Excavation: 'features/mcmmo/excavation.md'
+      - Fishing: 'features/mcmmo/fishing.md'
+      - Repair: 'features/mcmmo/repair.md'
+      - Acrobatics: 'features/mcmmo/acrobatics.md'
+      - Alchemy: 'features/mcmmo/alchemy.md'
+      - Salvage: 'features/mcmmo/salvage.md'
+      - Smelting: 'features/mcmmo/smelting.md'
+    - Ranks:
+      - Donation: 'features/ranks/donation.md'
+      - Money: 'features/ranks/money.md'
+      - Player Kills: 'features/ranks/playerkills.md'
+      - Play Time: 'features/ranks/playtime.md'
