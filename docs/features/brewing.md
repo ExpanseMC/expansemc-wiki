@@ -40,7 +40,7 @@ Attach a spigot (fence), and again, add a sign with "Barrel" on its first line. 
 
 ![Large Barrels](https://camo.githubusercontent.com/93016eb9a31ee78b44044009fb6723abca587179/68747470733a2f2f696d6775722e636f6d2f6b336834716a302e706e67 "Large Barrels")
 
-To open a barrel, click on the sign (for a small barrel), or anywhere (for a large barrel). 1 year for aging is equal to 20 real life minutes. NBte that the type of wood can matter per type of brew. Make sure not to destroy the barrel while aging!
+To open a barrel, click on the sign (for a small barrel), or anywhere (for a large barrel). 1 year for aging is equal to 20 real life minutes. Note that the type of wood can matter per type of brew. Make sure not to destroy the barrel while aging!
 
 ## Drinking
 
