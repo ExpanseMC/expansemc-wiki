@@ -30,7 +30,7 @@ nav:
       - Salvage: 'features/mcmmo/salvage.md'
       - Smelting: 'features/mcmmo/smelting.md'
     - Ranks:
-      - Donation: 'features/ranks/donation.md'
-      - Money: 'features/ranks/money.md'
-      - Player Kills: 'features/ranks/playerkills.md'
-      - Play Time: 'features/ranks/playtime.md'
+      - Donation: 'ranks/donation.md'
+      - Money: 'ranks/money.md'
+      - Player Kills: 'ranks/playerkills.md'
+      - Play Time: 'ranks/playtime.md'
