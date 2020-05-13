@@ -12,8 +12,8 @@ nav:
     - Towny: 'features/towny.md'
     - Marriage: 'features/marriage.md'
     - Brewing: 'features/brewing.md'
-    - McMMO:
-      - McMMO: 'features/mcmmo.md'
+    - McMMO: 'features/mcmmo.md'
+    - Skills:
       - Unarmed: 'features/mcmmo/unarmed.md'
       - Archery: 'features/mcmmo/archery.md'
       - Swords: 'features/mcmmo/swords.md'
