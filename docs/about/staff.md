@@ -41,4 +41,4 @@ These people have assisted with, or are what led to the creation of Expanse, but
 | Name               | Former Role                             |
 | ------------------ | --------------------------------------- |
 | SteveTheDog (Jake) | Former Owner / Founder of Flame Network |
-| CraftyBR (Brazil)  | Former Admin / Sr. Admin on RPG         |
+| CraftyBr (Brazil)  | Former Admin / Sr. Admin on RPG         |
