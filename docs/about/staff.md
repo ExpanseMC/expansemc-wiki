@@ -23,7 +23,7 @@ The __Moderation Team__ are the backbone of Expanse, keeping the hackers out, an
 | -------------- | --------- |
 | lleen          | Moderator |
 | Psuedoneurotic | Moderator |
-| rollswithlols  | Moderator |
+
 
 ## Architect Team
 
